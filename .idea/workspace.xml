@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c805fdf-e9b5-418e-96ff-9cbb4aa890f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="reggie_take_out" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../apache-maven-3.6.3/repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="2XgF8AS8Mq81DyBarut7PdHvqES" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/yueZhai/reggie/entity" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/yueZhai/reggie/controller" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/yueZhai/reggie/utils" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/yueZhai/reggie/dto" />
+      <recent name="$PROJECT_DIR$/src/main/resources/backend/page/demo" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.yueZhai.reggie.config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ReggieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yueZhai.reggie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yueZhai.reggie.ReggieApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ReggieApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c805fdf-e9b5-418e-96ff-9cbb4aa890f0" name="Default Changelist" comment="" />
+      <created>1699042654840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699042654840</updated>
+      <workItem from="1699042661642" duration="1122000" />
+      <workItem from="1699043937151" duration="10458000" />
+      <workItem from="1699121643261" duration="490000" />
+      <workItem from="1699122227451" duration="1178000" />
+      <workItem from="1700933613898" duration="20000" />
+      <workItem from="1700934212928" duration="6655000" />
+      <workItem from="1701014972742" duration="3085000" />
+      <workItem from="1701097046666" duration="3245000" />
+      <workItem from="1701174957229" duration="1466000" />
+      <workItem from="1701180318980" duration="24000" />
+      <workItem from="1701259704522" duration="690000" />
+      <workItem from="1701352471589" duration="3658000" />
+      <workItem from="1701526240312" duration="1998000" />
+      <workItem from="1701636805758" duration="48000" />
+      <workItem from="1704058819957" duration="555000" />
+      <workItem from="1704395367996" duration="1528000" />
+      <workItem from="1704478507430" duration="5080000" />
+      <workItem from="1704488301519" duration="2456000" />
+      <workItem from="1704577590548" duration="321000" />
+      <workItem from="1704579098438" duration="1824000" />
+      <workItem from="1704645420319" duration="9692000" />
+      <workItem from="1704719937951" duration="10043000" />
+      <workItem from="1704807493963" duration="25406000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="318" y="83" key="#Project_Structure" timestamp="1699043354831">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="318" y="83" key="#Project_Structure/0.23.1440.823@0.23.1440.823" timestamp="1699043354831" />
+    <state x="505" y="246" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1700944130157">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="505" y="246" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.822@0.23.1440.822" timestamp="1700944130157" />
+    <state x="833" y="179" key="#com.intellij.ide.util.MemberChooser" timestamp="1704924236587">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="833" y="178" key="#com.intellij.ide.util.MemberChooser/0.23.1440.821@0.23.1440.821" timestamp="1701353178213" />
+    <state x="833" y="178" key="#com.intellij.ide.util.MemberChooser/0.23.1440.822@0.23.1440.822" timestamp="1701177668280" />
+    <state x="833" y="178" key="#com.intellij.ide.util.MemberChooser/0.23.1440.823@0.23.1440.823" timestamp="1699110746997" />
+    <state x="833" y="179" key="#com.intellij.ide.util.MemberChooser/0.23.1440.827@0.23.1440.827" timestamp="1704924236587" />
+    <state x="533" y="345" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1699111565231">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="533" y="345" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.823@0.23.1440.823" timestamp="1699111565231" />
+    <state width="408" height="466" key="DebuggerActiveHint" timestamp="1700938232630">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="408" height="466" key="DebuggerActiveHint/0.23.1440.822@0.23.1440.822" timestamp="1700938232630" />
+    <state width="408" height="466" key="DebuggerActiveHint/0.23.1440.823@0.23.1440.823" timestamp="1699119432351" />
+    <state width="1237" height="422" key="GridCell.Tab.0.bottom" timestamp="1704925396522">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1306" height="470" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1701356257463" />
+    <state width="1306" height="397" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1701262691755" />
+    <state width="1358" height="189" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1699142431730" />
+    <state width="1237" height="422" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1704925396522" />
+    <state width="1237" height="422" key="GridCell.Tab.0.center" timestamp="1704925396521">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1306" height="470" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1701356257462" />
+    <state width="1306" height="397" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1701262691754" />
+    <state width="1358" height="189" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1699142431729" />
+    <state width="1237" height="422" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1704925396521" />
+    <state width="1237" height="422" key="GridCell.Tab.0.left" timestamp="1704925396520">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1306" height="470" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1701356257462" />
+    <state width="1306" height="397" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1701262691753" />
+    <state width="1358" height="189" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1699142431729" />
+    <state width="1237" height="422" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1704925396520" />
+    <state width="1237" height="422" key="GridCell.Tab.0.right" timestamp="1704925396521">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1306" height="470" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1701356257463" />
+    <state width="1306" height="397" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1701262691754" />
+    <state width="1358" height="189" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1699142431730" />
+    <state width="1237" height="422" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1704925396521" />
+    <state width="1237" height="422" key="GridCell.Tab.1.bottom" timestamp="1704925396524">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1306" height="470" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1701356257466" />
+    <state width="1306" height="397" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1701262691757" />
+    <state width="1358" height="189" key="GridCell.Tab.1.bottom/0.23.1440.823@0.23.1440.823" timestamp="1699142431732" />
+    <state width="1237" height="422" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1704925396524" />
+    <state width="1237" height="422" key="GridCell.Tab.1.center" timestamp="1704925396523">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1306" height="470" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1701356257464" />
+    <state width="1306" height="397" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1701262691756" />
+    <state width="1358" height="189" key="GridCell.Tab.1.center/0.23.1440.823@0.23.1440.823" timestamp="1699142431731" />
+    <state width="1237" height="422" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1704925396523" />
+    <state width="1237" height="422" key="GridCell.Tab.1.left" timestamp="1704925396523">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1306" height="470" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1701356257464" />
+    <state width="1306" height="397" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1701262691755" />
+    <state width="1358" height="189" key="GridCell.Tab.1.left/0.23.1440.823@0.23.1440.823" timestamp="1699142431731" />
+    <state width="1237" height="422" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1704925396523" />
+    <state width="1237" height="422" key="GridCell.Tab.1.right" timestamp="1704925396524">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1306" height="470" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1701356257465" />
+    <state width="1306" height="397" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1701262691756" />
+    <state width="1358" height="189" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1699142431732" />
+    <state width="1237" height="422" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1704925396524" />
+    <state width="1237" height="392" key="GridCell.Tab.2.bottom" timestamp="1704910407920">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1306" height="224" key="GridCell.Tab.2.bottom/0.23.1440.822@0.23.1440.822" timestamp="1701101591684" />
+    <state width="1358" height="224" key="GridCell.Tab.2.bottom/0.23.1440.823@0.23.1440.823" timestamp="1699122552953" />
+    <state width="1237" height="392" key="GridCell.Tab.2.bottom/0.23.1440.827@0.23.1440.827" timestamp="1704910407920" />
+    <state width="1237" height="392" key="GridCell.Tab.2.center" timestamp="1704910407920">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1306" height="224" key="GridCell.Tab.2.center/0.23.1440.822@0.23.1440.822" timestamp="1701101591683" />
+    <state width="1358" height="224" key="GridCell.Tab.2.center/0.23.1440.823@0.23.1440.823" timestamp="1699122552952" />
+    <state width="1237" height="392" key="GridCell.Tab.2.center/0.23.1440.827@0.23.1440.827" timestamp="1704910407920" />
+    <state width="1237" height="392" key="GridCell.Tab.2.left" timestamp="1704910407919">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1306" height="224" key="GridCell.Tab.2.left/0.23.1440.822@0.23.1440.822" timestamp="1701101591682" />
+    <state width="1358" height="224" key="GridCell.Tab.2.left/0.23.1440.823@0.23.1440.823" timestamp="1699122552952" />
+    <state width="1237" height="392" key="GridCell.Tab.2.left/0.23.1440.827@0.23.1440.827" timestamp="1704910407919" />
+    <state width="1237" height="392" key="GridCell.Tab.2.right" timestamp="1704910407920">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1306" height="224" key="GridCell.Tab.2.right/0.23.1440.822@0.23.1440.822" timestamp="1701101591683" />
+    <state width="1358" height="224" key="GridCell.Tab.2.right/0.23.1440.823@0.23.1440.823" timestamp="1699122552953" />
+    <state width="1237" height="392" key="GridCell.Tab.2.right/0.23.1440.827@0.23.1440.827" timestamp="1704910407920" />
+    <state x="416" y="23" width="1024" height="823" key="SettingsEditor" timestamp="1699043907956">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="416" y="23" width="1024" height="823" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1699043907956" />
+    <state x="394" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1704991180532">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="394" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1701636850376" />
+    <state x="394" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1701259738594" />
+    <state x="394" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1699122232923" />
+    <state x="394" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1704991180532" />
+    <state x="394" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1704479631704" />
+    <state x="879" y="104" width="670" height="676" key="search.everywhere.popup" timestamp="1704914575876">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="879" y="104" width="670" height="676" key="search.everywhere.popup/0.23.1440.827@0.23.1440.827" timestamp="1704914575876" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yueZhai/reggie/controller/EmployeeController.java</url>
+          <line>150</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yueZhai/reggie/controller/EmployeeController.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yueZhai/reggie/controller/UserController.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
